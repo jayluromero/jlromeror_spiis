@@ -1,0 +1,12 @@
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/bin/Debug/net6.0/Common.deps.json
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/bin/Debug/net6.0/Common.dll
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/bin/Debug/net6.0/Common.pdb
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.csproj.AssemblyReference.cache
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.AssemblyInfoInputs.cache
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.AssemblyInfo.cs
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.csproj.CoreCompileInputs.cache
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.dll
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/refint/Common.dll
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/Common.pdb
+/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/Debug/net6.0/ref/Common.dll

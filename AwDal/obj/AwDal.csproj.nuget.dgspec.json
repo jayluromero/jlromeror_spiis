@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/AwDal/AwDal.csproj": {}
+  },
+  "projects": {
+    "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/AwDal/AwDal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/AwDal/AwDal.csproj",
+        "projectName": "AwDal",
+        "projectPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/AwDal/AwDal.csproj",
+        "packagesPath": "/Users/joseluisromero/.nuget/packages/",
+        "outputPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/AwDal/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joseluisromero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/Common.csproj": {
+                "projectPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/Common.csproj"
+              },
+              "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Entities/Entities.csproj": {
+                "projectPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/Common.csproj",
+        "packagesPath": "/Users/joseluisromero/.nuget/packages/",
+        "outputPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joseluisromero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Entities/Entities.csproj",
+        "packagesPath": "/Users/joseluisromero/.nuget/packages/",
+        "outputPath": "/Users/joseluisromero/Documents/UNI/DI/ProyectoCapas/dsi-2023/WebApiAwLayers/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joseluisromero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

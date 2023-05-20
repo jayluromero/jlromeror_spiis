@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiAwLayers</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiAwLayers.Controllers.CategoriesController.Get">
+            <summary>
+            Retorna listado de cateogrías
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.CategoriesController.Get(System.Int32)">
+            <summary>
+            Obtiene una categoría que tiene como id el valor especificado
+            </summary>
+            <param name="id">Identificador de la categoría</param>
+            <returns><see cref="T:Entities.Production.ProductCategory"/></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.CategoriesController.Post(System.String)">
+            <summary>
+            Crear una nueva categorìa
+            </summary>
+            <param name="categoryName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.CategoriesController.Save(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="categoryName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.SalesReasonController.Get">
+            <summary>
+            Retorna listado de cateogrías
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.SalesReasonController.Get(System.Int32)">
+            <summary>
+            Obtiene una categoría que tiene como id el valor especificado
+            </summary>
+            <param name="id">Identificador de la categoría</param>
+            <returns><see cref="T:Entities.Sales.SalesReason"/></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.SalesReasonController.Post(System.String)">
+            <summary>
+            Crear una nueva categorìa
+            </summary>
+            <param name="salesName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiAwLayers.Controllers.SalesReasonController.Save(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="salesName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
