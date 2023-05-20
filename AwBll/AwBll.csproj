@@ -17,8 +17,10 @@
 
   <ItemGroup>
     <None Remove="Interfaces\Sales\" />
+    <None Remove="Implementations\Sales\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\Sales\" />
+    <Folder Include="Implementations\Sales\" />
   </ItemGroup>
 </Project>

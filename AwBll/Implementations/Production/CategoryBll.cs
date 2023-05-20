@@ -15,6 +15,7 @@ namespace AwBll.Implementations.Production
     {
         private readonly IConfiguration _configuration;
         private readonly ProductCategoryDal dbCategory;
+
         public CategoryBll(IConfiguration configuration)
         {
             _configuration = configuration;

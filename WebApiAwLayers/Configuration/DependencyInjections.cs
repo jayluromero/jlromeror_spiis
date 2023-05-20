@@ -1,5 +1,7 @@
 ﻿using AwBll.Implementations.Production;
+using AwBll.Implementations.Sales;
 using AwBll.Interfaces.Production;
+using AwBll.Interfaces.Sales;
 
 namespace WebApiAwLayers.Configuration
 {
@@ -8,6 +10,8 @@ namespace WebApiAwLayers.Configuration
         public static void AddBll(this IServiceCollection services)
         {
             services.AddScoped<ICategoryBll, CategoryBll>();
+            services.AddScoped<ISalesBll, SalesBll>();
+
         }
 
     }
